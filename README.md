@@ -1,4 +1,4 @@
-# miscellaneous_maths_in_coding
+# misc_maths_in_coding
 
 References
 
