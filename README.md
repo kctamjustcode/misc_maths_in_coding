@@ -1,4 +1,4 @@
-# misc_crypto_math
+# miscellaneous_maths_in_coding
 
 References
 
